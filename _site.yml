@@ -7,7 +7,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
