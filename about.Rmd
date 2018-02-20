@@ -1,7 +1,17 @@
 ---
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-Here is the about me page!
+### Education
+I am currently pursuing a Master's degree in Bioinformatics at [Northeastern University](https://www.northeastern.edu/bioinformatics/). I find that the application of computers and statistics to help understand and prevent diseases such as cancer is both intellectually and morally rewarding. Prior to this, in 2016 I attained my Bachelor's of Science degree in Computer Science at [Eastern Connecticut State University](http://www.easternct.edu/computerscience/). I think that coming from a computing background definitely helps in a field where most of the population seems to originate strictly in biology. My dream job would be to have the roll of Bioinformatics Developer/Engineer/Analyst at a company dedicated to the Immunology/Immunotherapies of cancer. 
+
+My resume is available in two versions, one is created by the wonderful Github project [best-resume-ever](https://github.com/salomonelli/best-resume-ever) and is available [here](files/Resume.pdf), and the other is a traditional Microsoft word document that is available [here](files/Resume2018.doc).
+
+## Interests
+-To add later
